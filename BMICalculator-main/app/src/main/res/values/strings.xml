@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="copyright"><![CDATA[Copyright © 2021 Anis & Hani]]></string>
+    <string name="About_text"> Developers Details \nName: Nur Anis Wahida Binti Mohd Zamzani\nStudent Number: 2020563761\nemail: Wahida227@gmail.com\n\nName: Hani Arina Binti Mohd Subri\nStudent Number: 2020960555\nemail: haniarina7599@gmail.com\n</string>
+    <string name="About_info">\nDevelopers Information \nGroup: RCS2515A\nProgramme Code: CS251</string>
+    <string name="about_link">\n Link URL github : \n <a href="https://github.com/AliciaRose1786/android-studio-BMI-calculator.git">
+        https://github.com/AliciaRose1786/android-studio-BMI-calculator.git</a></string>
+
+
+</resources>

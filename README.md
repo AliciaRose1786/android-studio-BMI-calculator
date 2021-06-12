@@ -22,6 +22,8 @@ All rights reserved to the developers of this mobile application.
    2. Wahida227@gmail.com
 
 
-Feel free to use our codes as a mobile application demo.
+Feel free to use our codes as a mobile application demo. 
 Thank you.
 :)
+
+https://github.com/AliciaRose1786/android-studio-BMI-calculator

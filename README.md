@@ -23,6 +23,7 @@ All rights reserved to the developers of this mobile application.
 
 
 Feel free to use our codes as a mobile application demo. 
+We recommend you to download the BMICalculator-main.rar as the zip file contains full coding and works properly.
 Thank you.
 :)
 
